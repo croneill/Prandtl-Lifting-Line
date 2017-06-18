@@ -1,0 +1,7 @@
+% Prandtl Lifting Line v2 geometry file
+% Chord Definitions # <integer>
+3
+% [Half span Ratio (-1,1)] , [chord ], alpha_zl
+-1.0  0.3 -10.0
+0.0 0.1 0.0
+1.0 0.3 -10.0
